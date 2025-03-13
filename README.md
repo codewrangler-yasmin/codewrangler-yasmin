@@ -21,6 +21,11 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=codewrangler-yasmin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</div>
+
+
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=codewrangler-yasmin&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewrangler-yasmin&layout=compact&theme=tokyonight" />
 </div>
