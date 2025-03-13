@@ -1,9 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/qYmKgYyM/github-cover.png"  />
+  <img width="100%" src="https://i.ibb.co.com/qYmKgYyM/github-cover.png"  />
 </div>
 
 ###
@@ -16,7 +14,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewrangler-yasmin&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewrangler-yasmin&layout=compact&theme=tokyonight)  
+
+
+###
+
+<h2 align="center">I code with</h2>
 
 ###
 
