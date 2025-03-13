@@ -20,8 +20,10 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewrangler-yasmin" alt="GitHub Streak" style="width: 100%; max-width: 900px;" />
+</div>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=codewrangler-yasmin&show_icons=true&theme=tokyonight" />
