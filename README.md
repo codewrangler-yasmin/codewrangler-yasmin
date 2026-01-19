@@ -10,7 +10,7 @@
 
 <p align="center">
   🎓 <b>Education:</b> Bachelor of Business Administration from National University <br>
-  💻 <b>Experience:</b> 5+ years of freelancing on Fiverr, specializing in WordPress theme customization and development. <br>
+  💻 <b>Experience:</b> 3+ years of freelancing on Fiverr, specializing in WordPress theme customization and development. <br>
   🚀 Recently transitioned to <b>JavaScript</b> and <b>React.js</b> to build dynamic, interactive web applications. <br>
   📚 <b>Lifelong Learner:</b> Self-taught developer who loves to explore new tools and technologies. <br>
   🎨 <b>Hobbies:</b> Besides coding, I enjoy painting, reading, and expressing creativity in various forms.
